@@ -1,0 +1,28 @@
+ .items {
+ 	
+    width:700px;
+    height:700px;
+    margin-top: 100px;
+    
+}
+.imgs{
+   margin-left: 50%;
+
+}
+
+.items img{
+	width: 600px;
+	height: 800px;
+    display: block;
+}
+.names{
+
+	font-size: 35px;  
+}
+.descs{
+	font-size: 20px;
+}
+.prices{
+	font-size: 30px;
+	color: red;
+}
